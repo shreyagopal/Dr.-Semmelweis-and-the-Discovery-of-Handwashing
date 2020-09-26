@@ -13,7 +13,7 @@ For this project, you should be familiar with the
 * Statistical Thinking in Python
 
 ## Dataset Details:
-The data files used in this project are in the folder '[datasets]()'
+The data files used in this project are in the folder '[datasets](https://github.com/shreyagopal/Dr.-Semmelweis-and-the-Discovery-of-Handwashing/tree/master/datasets)'
 
 ## Project Tasks:
 
